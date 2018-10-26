@@ -5,5 +5,5 @@
 
 
 ## Website: https://vibya.github.io/
-## LinkedIn: https://www.linkedin.com/in/vib-yalamanchili-ba665b173/
+## LinkedIn: https://www.linkedin.com/in/vibya/
 ## Contact: vibhu.y@yahoo.com
